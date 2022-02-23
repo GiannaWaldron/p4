@@ -3,7 +3,7 @@ body {
     font-size: 220px;
     text-align: left; 
     line-height: 30px;
-    color: rgb(192, 142, 153);
+    color: rgb(235, 178, 161);
     font-family: serif; 
   }
 h2{
@@ -16,7 +16,7 @@ h3 {
 }
 p {
   font-size: 20px;
-  color:rgb(192, 183, 186);
+  color:rgb(236, 215, 208);
   margin-right: 500px;
   margin-left: 25px;
   text-align: justify;
