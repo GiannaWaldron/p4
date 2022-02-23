@@ -14,6 +14,10 @@ h3 {
   line-break: auto;
   position: sticky;
 }
+h4 {
+  font-size: 100%;
+  text-align: center;
+}
 p {
   font-size: 20px;
   color:rgb(236, 215, 208);
