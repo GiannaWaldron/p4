@@ -10,9 +10,8 @@ h2{
   font-size: 127%;
 }
 h3 {
-  font-size: 30%;
-  line-break: auto;
-  position: sticky;
+  font-size: 250%;
+  line-height: 5px;
 }
 .h4 {
   font-size: 20%;
